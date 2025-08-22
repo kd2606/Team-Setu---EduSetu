@@ -37,7 +37,7 @@ To experience the interactive prototype:
 ## Live Demo / Deployment
 As this is a design prototype, the live interactive demo is available directly through the Figma link.
 
-## UI/UX / Design Link --> 
+## UI/UX / Design Link -->  Press R for the First Page
 **Figma Prototype Link:** [https://www.figma.com/proto/S6hFpHTq8n4i2womP56iFL/EduSetu?node-id=73-58&p=f&t=NIAawDUzniHwLJA5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/S6hFpHTq8n4i2womP56iFL/EduSetu?node-id=73-58&p=f&t=NIAawDUzniHwLJA5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ## Future Enhancements
